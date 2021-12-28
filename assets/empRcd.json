@@ -1,0 +1,30 @@
+[
+    {
+    "empName":"Suresh",
+    "Department":"Software"
+},
+{
+    "empName":"Rajesh",
+    "Department":"Software"
+},
+{
+    "empName":"Annusha",
+    "Department":"Software"
+},
+{
+    "empName":"Mohan",
+    "Department":"Network"
+},
+{
+    "empName":"Dipu",
+    "Department":"Support"
+},
+{
+    "empName":"Ravi",
+    "Department":"Network"
+},
+{
+    "empName":"Ram",
+    "Department":"Support"
+}
+]
